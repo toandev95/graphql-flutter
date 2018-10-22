@@ -9,7 +9,7 @@ homepage: https://github.com/zino-app/graphql-flutter
 dependencies:
   flutter:
     sdk: flutter
-  http: ^0.11.3
+  http: ^0.12.0
   path_provider: ^0.4.1
   uuid: ^1.0.3
 
